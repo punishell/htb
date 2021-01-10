@@ -133,7 +133,7 @@ zip-cracking:
 ```
 fcrackzip -D -p rockyou test.zip
 ```
-### Windows:
+## Windows:
 ```
 Check groups:
 	-Local Group Memberships      *AD Recycle Bin 
